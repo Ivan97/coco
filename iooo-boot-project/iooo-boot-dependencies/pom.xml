@@ -41,7 +41,7 @@
   </profiles>
 
   <properties>
-    <java.version>1.8</java.version>
+    <java.version>17</java.version>
     <kotlin.version>1.9.22</kotlin.version>
     <kotlinx-coroutines.version>1.6.3-native-mt</kotlinx-coroutines.version>
     <maven.min.version>3.0.5</maven.min.version>
@@ -264,11 +264,6 @@
       <dependency>
         <groupId>tech.iooo.boot</groupId>
         <artifactId>iooo-boot-test-bundle</artifactId>
-        <version>${iooo-boot.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>tech.iooo.boot</groupId>
-        <artifactId>iooo-boot-cache-tools</artifactId>
         <version>${iooo-boot.version}</version>
       </dependency>
       <!-- Third Party -->
