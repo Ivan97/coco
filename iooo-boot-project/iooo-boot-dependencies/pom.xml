@@ -149,7 +149,7 @@
     <mybatis-spring.version>3.0.3</mybatis-spring.version>
     <mapper-spring-boot-starter.version>4.2.3</mapper-spring-boot-starter.version>
     <pagehelper.version>5.3.3</pagehelper.version>
-    <pagehelper.boot.version>1.4.7</pagehelper.boot.version>
+    <pagehelper.boot.version>2.1.0</pagehelper.boot.version>
     <fastjson.version>2.0.43</fastjson.version>
     <okhttp.version>4.10.0</okhttp.version>
     <maven-aether-provider.version>3.3.9</maven-aether-provider.version>
