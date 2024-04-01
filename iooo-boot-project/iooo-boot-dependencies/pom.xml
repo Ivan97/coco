@@ -126,7 +126,7 @@
     <vertx.version>4.3.4</vertx.version>
     <guava.version>33.0.0-jre</guava.version>
     <bytebuddy.version>1.12.17</bytebuddy.version>
-    <commons-configuration2.version>2.9.0</commons-configuration2.version>
+    <commons-configuration2.version>2.10.1</commons-configuration2.version>
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
     <asm.version>9.6</asm.version>
     <org.objectweb.asm.version>5.0.1.v201404251740</org.objectweb.asm.version>
