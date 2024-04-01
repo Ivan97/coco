@@ -83,7 +83,7 @@
     <governator.version>1.17.13</governator.version>
     <httpclient.version>4.5.14</httpclient.version>
     <httpcore.version>4.4.16</httpcore.version>
-    <jackson.version>2.16.0</jackson.version>
+    <jackson.version>2.16.1</jackson.version>
     <rocketmq-client.version>5.1.3</rocketmq-client.version>
     <json-path.version>2.8.0</json-path.version>
     <jedis.version>5.1.0</jedis.version>
