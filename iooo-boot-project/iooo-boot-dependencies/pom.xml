@@ -73,7 +73,7 @@
     <grpc.version>1.58.0</grpc.version>
     <redisson.version>3.23.5</redisson.version>
     <hibernate-validator.version>8.0.1.Final</hibernate-validator.version>
-    <easyexcel.version>3.3.2</easyexcel.version>
+    <easyexcel.version>3.3.4</easyexcel.version>
     <gson.version>2.10.1</gson.version>
     <java-jwt.version>4.4.0</java-jwt.version>
     <jjwt.version>0.12.5</jjwt.version>
