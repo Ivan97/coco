@@ -173,7 +173,7 @@
     <eclipse-collections.version>11.1.0</eclipse-collections.version>
     <re2j.version>1.7</re2j.version>
     <maven.version>3.9.5</maven.version>
-    <maven-plugin-tools.version>3.9.0</maven-plugin-tools.version>
+    <maven-plugin-tools.version>3.12.0</maven-plugin-tools.version>
     <!-- Plugin versions -->
     <build-helper-maven-plugin.version>3.4.0</build-helper-maven-plugin.version>
     <exec-maven-plugin.version>3.1.1</exec-maven-plugin.version>
