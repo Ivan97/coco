@@ -131,7 +131,7 @@
     <asm.version>9.6</asm.version>
     <org.objectweb.asm.version>5.0.1.v201404251740</org.objectweb.asm.version>
     <poi.version>4.1.2</poi.version>
-    <completable-futures.version>0.3.5</completable-futures.version>
+    <completable-futures.version>0.3.6</completable-futures.version>
     <parallel-collectors.version>3.0.0</parallel-collectors.version>
     <throwing-function.version>1.5.1</throwing-function.version>
     <jctools.version>4.0.1</jctools.version>
