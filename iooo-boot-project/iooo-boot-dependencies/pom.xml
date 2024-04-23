@@ -77,7 +77,7 @@
     <gson.version>2.10.1</gson.version>
     <java-jwt.version>4.4.0</java-jwt.version>
     <jjwt.version>0.12.5</jjwt.version>
-    <hutool.version>5.8.23</hutool.version>
+    <hutool.version>5.8.27</hutool.version>
     <dozer.version>6.5.2</dozer.version>
     <guice.version>4.2.3</guice.version>
     <governator.version>1.17.13</governator.version>
