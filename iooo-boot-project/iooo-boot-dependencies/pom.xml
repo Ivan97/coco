@@ -147,7 +147,7 @@
     <bcprov.version>1.70</bcprov.version>
     <mybatis.version>3.5.16</mybatis.version>
     <mybatis-spring.version>3.0.3</mybatis-spring.version>
-    <mapper-spring-boot-starter.version>4.2.3</mapper-spring-boot-starter.version>
+    <mapper-spring-boot-starter.version>4.3.0</mapper-spring-boot-starter.version>
     <pagehelper.version>5.3.3</pagehelper.version>
     <pagehelper.boot.version>2.1.0</pagehelper.boot.version>
     <fastjson.version>2.0.43</fastjson.version>
