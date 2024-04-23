@@ -108,7 +108,7 @@
     <mybatis-plus-boot-starter-v3.version>3.5.4.1</mybatis-plus-boot-starter-v3.version>
     <mybatis-plus-v2.version>2.3.3</mybatis-plus-v2.version>
     <mybatis-plus-v3.version>3.5.4.1</mybatis-plus-v3.version>
-    <netty.version>4.1.101.Final</netty.version>
+    <netty.version>4.1.109.Final</netty.version>
     <netty-tcnative.version>2.0.65.Final</netty-tcnative.version>
     <!--quasar 0.7.x for jdk8-->
     <quasar-core.version>0.7.10</quasar-core.version>
