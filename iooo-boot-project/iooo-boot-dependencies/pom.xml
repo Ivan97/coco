@@ -122,7 +122,7 @@
     <icu4j.version>73.2</icu4j.version>
     <mysql.version>8.0.30</mysql.version>
     <h2.version>2.2.224</h2.version>
-    <grpc-spring-boot-starter.version>3.0.0.RELEASE</grpc-spring-boot-starter.version>
+    <grpc-spring-boot-starter.version>3.1.0.RELEASE</grpc-spring-boot-starter.version>
     <vertx.version>4.3.4</vertx.version>
     <guava.version>33.0.0-jre</guava.version>
     <bytebuddy.version>1.12.17</bytebuddy.version>
